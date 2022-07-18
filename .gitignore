@@ -1,0 +1,8 @@
+.p*
+.c*
+/api1/venv
+/api1/application/__p*
+/api1/testing/__p*
+/api2/venv
+/api2/application/__p*
+/api2/testing/__p*
